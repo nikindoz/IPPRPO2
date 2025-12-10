@@ -1,0 +1,5 @@
+# Created at 2025-12-10T05:59:17.575
+Boot Manifest-JAR contains absolute paths in classpath 'D:\IPPRPO\2lab\bank-app\module-cli\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
